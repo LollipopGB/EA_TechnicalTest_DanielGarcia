@@ -22,3 +22,5 @@ Train a ML classifier, in specific a Logistic Regression, to classify the docume
 Train 3 different models, select the best one, extract the topics of the documents per language and visualize the results.
 
 Some of the graphs are not saved in the notebooks because they are user interactive. There are saved plots in the folder "plots" to show them.
+
+All the generated datasets are not upload here because of size limits.
