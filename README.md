@@ -1,6 +1,3 @@
-# EA_TechnicalTest_DanielGarcia
-Task 1 and 2 for the technical test in selection process of EA.
-
 The reasoning and decision making of the process is explained through the notebooks. The sequence to read them is the following:
 
 ## Exploratory Analysis
